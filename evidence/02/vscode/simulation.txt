@@ -1,0 +1,5 @@
+[1] PASS 로그
+RUN C:\msys64\mingw64\bin\vvp.EXE -N C:\Users\sumin\bcd_conv\build\sim\run-13d019aed9c742ad896772936e0a6515\sim.vvp
+VCD info: dumpfile wave.vcd opened for output.
+PASS BCD: 100 valid and 156 invalid inputs
+C:\Users\sumin\bcd_conv\sim\tb_bcd_conv.sv:19: $finish called at 256000 (1ps)
