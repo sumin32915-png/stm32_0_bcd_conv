@@ -1,0 +1,6 @@
+# run 1000ns
+PASS BCD: 100 valid and 156 invalid inputs
+$finish called at time : 256 ns : File "C:/Users/sumin/bcd_conv/sim/tb_bcd_conv.sv" Line 19
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:07 ; elapsed = 00:00:12 . Memory (MB): peak = 1740.590 ; gain = 0.000
